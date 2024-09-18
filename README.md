@@ -8,7 +8,7 @@ This's the guide for applying patch mannually. There'll be a repo guiding you tr
 ![Unlimited Trial](https://github.com/user-attachments/assets/e9c83778-27fa-456a-96e6-07bb0cd7f4ad)
 
 ## Get Started
-Follow [Instructions Version Selecter](/guide/version-selecter.md) for dedicated instruction for each version.
+Follow [Instructions Version Selecter](/version-selecter.md) for dedicated instruction for each version.
 
 Update: Latest fiddler, Fiddler Everywhere 5.17.0 Isn't supported by latest patch. It supports around 5.15.1+ and don't know if works with 5.16... Play aroud and check. But it definitely works with 5.15.1 
 
