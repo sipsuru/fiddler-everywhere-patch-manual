@@ -13,6 +13,7 @@
 
 ## Guide
   > Note: You can also just downloaded patched repack: [Just Download Repack](https://www.dropbox.com/scl/fi/d9nuu9pk4a24lmz0q1htq/Fiddler-Everywhere-5.15.1-Cracked.zip?rlkey=kcj8ky0dmh98suuwm6sbll2q9&st=1tsthdl3&dl=1)
+  
   > Note that there're no real order to patch. Just need to follow all steps in ordered manner or not.
 
   0. Install Fiddler Everywhere (Or just extract the exe with WinRar).
