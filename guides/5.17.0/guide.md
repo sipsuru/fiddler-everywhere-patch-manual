@@ -8,7 +8,7 @@
 ## Pre-requirements
   - Fiddler everywhere 5.17.0 (or another compatible version)
   - Local Server (which response to `identity.getfiddler.com` & `api.getfiddler.com`): [Download](./server/)
-  - `fiddler.dll` & `hostpolicy.dll` from [Yukihana-Patch](https://github.com/project-yukihana/Yukihana-patch). Download it from the [releases](https://github.com/project-yukihana/Yukihana-patch/releases/tag/).
+  - `fiddler.dll` & `hostpolicy.dll` from [Yukihana-Patch](https://github.com/project-yukihana/Yukihana-patch). Download it from the [releases](https://github.com/project-yukihana/Yukihana-patch/releases/).
     > Note that only `Yukihana-Patch` release `1.1.0 + ` are supported by pFiddler Everywhere 5.17.0. You can download it from release [1.1.0](https://github.com/project-yukihana/Yukihana-patch/releases/tag/1.1.0) or from [backup](https://www.dropbox.com/scl/fi/jk1xt0j2pl7n085f4f027/Pre-Support-FE-5.17.0.zip?rlkey=wkjbcfw9bc9lfnnxsd0ko1m52&st=d800z0sh&dl=1)
 
     > Important, that the current (as of 19/09/2024) the `latest release` - `1.0.9` isn't supported by Fiddler Everyehere `5.17.0`
