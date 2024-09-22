@@ -13,7 +13,7 @@ This's the guide for applying patch mannually. There'll be a repo guiding you tr
 ## Get Started
 Follow [Instructions Version Selecter](/version-selecter.md) for dedicated instruction for each version.
 
-Update: Latest fiddler, Fiddler Everywhere 5.17.0 is now supported with pre-release Yukihana-Patch.
+Update: Latest fiddler, Fiddler Everywhere 5.17.0 is now supported with release `1.1.0` Yukihana-Patch.
 
 Note: As Teletik doesn't provide old versions, I've left them in the version selecter. 
 Note: For Generic `Linux` and `MacOS` instructions, use [source repository](https://github.com/msojocs/fiddler-everywhere-enhance)
