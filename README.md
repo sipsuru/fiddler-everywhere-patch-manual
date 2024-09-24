@@ -1,8 +1,10 @@
 # Fiddler Everywhere Patch (Manual)
-Guides you to Patch Fiddler Everywhere on Windows Manually. Source: https://github.com/msojocs/fiddler-everywhere-enhance
+Guides you to Patch Fiddler Everywhere on Windows Manually. 
+> Parent Repo: https://github.com/msojocs/fiddler-everywhere-enhance
 
 ## Special: Automated Patching Can be Used now. Visit [This repo](https://github.com/sipsuru/fiddler-everywhere-patch-automated)
-> Please note that Realtime Continuous Patching is not ready yet due to lack of knowledge how to `create tag` and `release` automatically of me. Plz help if you know.
+> [!NOTE]
+> Realtime Continuous Patching is not ready yet due to lack of knowledge how to `create tag` and `release` automatically of me. Plz help if you know.
 
 ## What and How?
 This's a crack (actually a patch) for Telerik Fiddler Everywhere. It can grant you a trial that doesn't expire. The trial has every feature. 
@@ -13,9 +15,17 @@ This's the guide for applying patch mannually. There'll be a repo guiding you tr
 ## Get Started
 Follow [Instructions Version Selecter](/version-selecter.md) for dedicated instruction for each version.
 
-Update: Latest fiddler, Fiddler Everywhere 5.17.0 is now supported with release `1.1.0` Yukihana-Patch.
+> [!NOTE]
+> Latest Fiddler Everywhere Version, 5.17.0 is now supported with Yukihana-Patch release `1.1.0 +`.
 
-Note: As Teletik doesn't provide old versions, I've left them in the version selecter. 
-Note: For Generic `Linux` and `MacOS` instructions, use [source repository](https://github.com/msojocs/fiddler-everywhere-enhance)
+> [!WARNING]
+> Only Versions Up to 5.9.0 ( 5.0.9 + ) are supported.
 
-Please don't use this patch for illegal matters. And we'd love if you can buy and support the officials: [Please Support](https://www.telerik.com/purchase/fiddler)
+> [!TIP]
+> As Teletik doesn't provide old versions, I've left them in the version selecter, or you can also download the directly from https://downloads.getfiddler.com/win/Fiddler%20Everywhere%20[version].exe by replacing [version] with the version you want to download.
+
+> [!NOTE]
+> For Generic `Linux` and `MacOS` instructions, use [source repository](https://github.com/msojocs/fiddler-everywhere-enhance)
+
+> [!CAUTION]
+> Please don't use this patch for illegal matters. And we'd love if you can buy and support the officials: [Please Support](https://www.telerik.com/purchase/fiddler)
