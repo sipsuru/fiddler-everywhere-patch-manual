@@ -1,22 +1,22 @@
-# Version 5.17.0
+# Version 5.18.0
 
 | Version | Download                         | Guide Compatibility              | End of Compatibility | Notes                                       |
 | ------- | -------------------------------- | -------------------------------- | -------------------- | ------------------------------------------- |
-| 5.17.0  | [Download](https://rb.gy/2vtucq) | 5.17.0 +                         | -                    | Compatible with "no libfiddler.dll versions |
+| 5.18.0  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.18.0.exe) | 5.17.0 +                         | -                    | Compatible with "no libfiddler.dll versions |
 
 
 ## Pre-requirements
-  - Fiddler everywhere 5.17.0 (or another compatible version)
+  - Fiddler everywhere 5.18.0 (or another compatible version)
   - Local Server (which response to `identity.getfiddler.com` & `api.getfiddler.com`): [Download](./server/)
   - `fiddler.dll` & `hostpolicy.dll` from [Yukihana-Patch](https://github.com/project-yukihana/Yukihana-patch). Download it from the [releases](https://github.com/project-yukihana/Yukihana-patch/releases/).
-    > Note that only `Yukihana-Patch` release `1.1.0 + ` are supported by pFiddler Everywhere 5.17.0. You can download it from release [1.1.0](https://github.com/project-yukihana/Yukihana-patch/releases/tag/1.1.0) or from [backup](https://www.dropbox.com/scl/fi/jk1xt0j2pl7n085f4f027/Pre-Support-FE-5.17.0.zip?rlkey=wkjbcfw9bc9lfnnxsd0ko1m52&st=d800z0sh&dl=1)
+    > Note that only `Yukihana-Patch` release `1.1.0 + ` are supported by Fiddler Everywhere 5.18.0. You can download it from release [1.1.0](https://github.com/project-yukihana/Yukihana-patch/releases/tag/1.1.0) or from [backup](https://www.dropbox.com/scl/fi/jk1xt0j2pl7n085f4f027/Pre-Support-FE-5.18.0.zip?rlkey=wkjbcfw9bc9lfnnxsd0ko1m52&st=d800z0sh&dl=1)
 
-    > Important, that the current (as of 19/09/2024) the `latest release` - `1.0.9` isn't supported by Fiddler Everyehere `5.17.0`
+    > Important, that the current (as of 19/09/2024) the `latest release` - `1.0.9` isn't supported by Fiddler Everyehere `5.18.0`
 
-    > Update: Important, that the current (as of 22/09/2024) the `latest release` - `1.1.0` is *supported by Fiddler Everyehere `5.17.0`+*
+    > Update: Important, that the current (as of 22/09/2024) the `latest release` - `1.1.0` is *supported by Fiddler Everyehere `5.18.0`+*
 
 ## Guide
-  > Note: You can also just downloaded patched repack: [Just Download Repack](https://www.dropbox.com/scl/fi/bcp3hrtpfq1iudn91wvi8/Fiddler-Everywhere-5.17.0-Cracked.zip?rlkey=ogbmcbxft52z0dlpmr5mut9c0&st=nnx6qr4o&dl=1)
+  ~> Note: You can also just downloaded patched repack: [Just Download Repack](https://www.dropbox.com/scl/fi/bcp3hrtpfq1iudn91wvi8/Fiddler-Everywhere-5.18.0-Cracked.zip?rlkey=ogbmcbxft52z0dlpmr5mut9c0&st=nnx6qr4o&dl=1)~
   
   > Note that there're no real order to patch. Just need to follow all steps in ordered manner or not.
 
@@ -35,13 +35,13 @@
      
      ![Screenshot](https://github.com/user-attachments/assets/399401b3-2977-483c-85b9-29a544ce026c)
 
-  7. Now, you're in `root/resources/app/out/WebServer/`. Open `ClientApp/dist/` folder. Now you're in `root/resources/app/out/WebServer/ClientApp/dist`. Search a file named like `main-QDNQBNPT.js`.
-     > For `5.17.0` the file name is `main-QDNQBNPT.js` but for other versions the text following `main-` is different.
+  7. Now, you're in `root/resources/app/out/WebServer/`. Open `ClientApp/dist/` folder. Now you're in `root/resources/app/out/WebServer/ClientApp/dist`. Search a file named like `main-PCHGHPS6.js`.
+     > For `5.18.0` the file name is `main-PCHGHPS6.js` but for other versions the text following `main-` is different.
 
-  8. Copy the `main-QDNQBNPT.js` likely named js to the same directory but rename it to `main-QDNQBNPT.original.js`. So you need to append `.original` to end of the file name. So you have to files like this.
+  8. Copy the `main-PCHGHPS6.js` likely named js to the same directory but rename it to `main-PCHGHPS6.original.js`. So you need to append `.original` to end of the file name. So you have to files like this.
      ![Screenshot](https://github.com/user-attachments/assets/cbd5ce84-ae02-4cca-aa7e-48d54325f690)
 
-  9. Open `main-QDNQBNPT.js` like js (Not the one that have `.original` suffix. 
+  9. Open `main-PCHGHPS6.js` like js (Not the one that have `.original` suffix. 
       - And `Search` and `Replace All`, `https://api.getfiddler.com` with `http://127.0.0.1:5678/api.getfiddler.com`
       - And `Search` and `Replace All`, `https://identity.getfiddler.com` with `http://127.0.0.1:5678/identity.getfiddler.com`
       
@@ -62,8 +62,8 @@
         - Open it with a text editor and put following content.
         ``` json
         {
-            "ClientApp\\dist\\main-QDNQBNPT.js": {
-                "target": "ClientApp\\dist\\main-QDNQBNPT.original.js",
+            "ClientApp\\dist\\main-PCHGHPS6.js": {
+                "target": "ClientApp\\dist\\main-PCHGHPS6.original.js",
                 "content": "",
                 "cur": 0,
                 "start": 0,
@@ -78,7 +78,7 @@
             }
         }
         ```
-        > Note that the file names `main-QDNQBNPT.js` & `main-QDNQBNPT.original.js` is for version 5.17.0 as we discussed above. You need to replace it with tha names of the js files we've edited, and copied-renamed in `root/resources/app/out/WebServer/ClientApp/dist/`
+        > Note that the file names `main-PCHGHPS6.js` & `main-PCHGHPS6.original.js` is for version 5.18.0 as we discussed above. You need to replace it with tha names of the js files we've edited, and copied-renamed in `root/resources/app/out/WebServer/ClientApp/dist/`
    
    
 **All Done! Now, you should be able to open and use it, well with an unlimited trial period that doesn't limit any functionality.**
