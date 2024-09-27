@@ -19,7 +19,7 @@ Follow [Instructions Version Selecter](/version-selecter.md) for dedicated instr
 > Latest Fiddler Everywhere Version, 5.17.0 is now supported with Yukihana-Patch release `1.1.0 +`.
 
 > [!WARNING]
-> Only Versions Up to 5.9.0 ( 5.0.9 + ) are supported.
+> Only Versions Up to 5.9.0 ( 5.9.0 + ) are supported.
 
 > [!TIP]
 > As Teletik doesn't provide old versions, I've left them in the version selecter, or you can also download the directly from https://downloads.getfiddler.com/win/Fiddler%20Everywhere%20[version].exe by replacing [version] with the version you want to download.
