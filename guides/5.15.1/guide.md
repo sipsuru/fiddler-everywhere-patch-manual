@@ -8,8 +8,8 @@
 ## Pre-requirements
   - Fiddler everywhere 5.15.1 (or another compatible version)
   - Local Server (which response to `identity.getfiddler.com` & `api.getfiddler.com`): [Download](./server/)
-  - `libfiddler.dll` & `hostpolicy.dll` from [Yukihana-Patch](https://github.com/project-yukihana/Yukihana-patch). Download it from the [releases](https://github.com/project-yukihana/Yukihana-patch/releases/tag/v1.0.9).
-    > Note that new versions of [Yukihana-Patch](https://github.com/project-yukihana/Yukihana-patch) *might not support* Fiddler Everywhere 5.15.1. The last checked version is [1.0.9](https://github.com/project-yukihana/Yukihana-patch/tree/v1.0.9). You can download it from [original repository releases](https://github.com/project-yukihana/Yukihana-patch/releases/tag/v1.0.9) or from [backup](https://rb.gy/8f75nl)
+  - `libfiddler.dll` & `hostpolicy.dll` from [Yui-Patch](https://github.com/project-Yui/Yui-patch). Download it from the [releases](https://github.com/project-Yui/Yui-patch/releases/tag/v1.0.9).
+    > Note that new versions of [Yui-Patch](https://github.com/project-Yui/Yui-patch) *might not support* Fiddler Everywhere 5.15.1. The last checked version is [1.0.9](https://github.com/project-Yui/Yui-patch/tree/v1.0.9). You can download it from [original repository releases](https://github.com/project-Yui/Yui-patch/releases/tag/v1.0.9) or from [backup](https://rb.gy/8f75nl)
 
 ## Guide
   > Note: You can also just downloaded patched repack: [Just Download Repack](https://www.dropbox.com/scl/fi/d9nuu9pk4a24lmz0q1htq/Fiddler-Everywhere-5.15.1-Cracked.zip?rlkey=kcj8ky0dmh98suuwm6sbll2q9&st=1tsthdl3&dl=1)
@@ -23,8 +23,8 @@
   2. Delete `libfiddler.dll` in the root directory
      ![Screenshot](https://github.com/user-attachments/assets/2f599f7c-5ca2-4eab-ae33-e396de856a82)
   
-  3. Copy the downloaded `libfiddler.dll`. (Downloaded from Yukihana-Patch in pre-reuirements)
-     > Of course you can do 2. and 3. in one step buy just replacing original `libfiddler.dll` with Yukihana-Patch's `libfiddler.dll`
+  3. Copy the downloaded `libfiddler.dll`. (Downloaded from Yui-Patch in pre-reuirements)
+     > Of course you can do 2. and 3. in one step buy just replacing original `libfiddler.dll` with Yui-Patch's `libfiddler.dll`
   
   4. Open `resources/app/out/WebServer`
      ![Screenshot](https://github.com/user-attachments/assets/f85a8806-b47a-4180-9f96-3a8b7422f14d)
