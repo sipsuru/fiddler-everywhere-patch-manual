@@ -8,8 +8,8 @@
 ## Pre-requirements
   - Fiddler everywhere 5.18.0 (or another compatible version)
   - Local Server (which response to `identity.getfiddler.com` & `api.getfiddler.com`): [Download](./server/)
-  - `fiddler.dll` & `hostpolicy.dll` from [Yukihana-Patch](https://github.com/project-yukihana/Yukihana-patch). Download it from the [releases](https://github.com/project-yukihana/Yukihana-patch/releases/).
-    > Note that only `Yukihana-Patch` release `1.1.0 + ` are supported by Fiddler Everywhere 5.18.0. You can download it from release [1.1.0](https://github.com/project-yukihana/Yukihana-patch/releases/tag/1.1.0) or from [backup](https://www.dropbox.com/scl/fi/jk1xt0j2pl7n085f4f027/Pre-Support-FE-5.18.0.zip?rlkey=wkjbcfw9bc9lfnnxsd0ko1m52&st=d800z0sh&dl=1)
+  - `fiddler.dll` & `hostpolicy.dll` from [Yui-Patch](https://github.com/project-Yui/Yui-patch). Download it from the [releases](https://github.com/project-Yui/Yui-patch/releases/).
+    > Note that only `Yui-Patch` release `1.1.0 + ` are supported by Fiddler Everywhere 5.18.0. You can download it from release [1.1.0](https://github.com/project-Yui/Yui-patch/releases/tag/1.1.0) or from [backup](https://www.dropbox.com/scl/fi/jk1xt0j2pl7n085f4f027/Pre-Support-FE-5.18.0.zip?rlkey=wkjbcfw9bc9lfnnxsd0ko1m52&st=d800z0sh&dl=1)
 
     > Important, that the current (as of 19/09/2024) the `latest release` - `1.0.9` isn't supported by Fiddler Everyehere `5.18.0`
 
@@ -23,8 +23,8 @@
   0. Install Fiddler Everywhere (Or just extract the exe with WinRar).
   1. Open Installation Folder
   2. Delete `fiddler.dll` in the root directory
-  3. Copy the downloaded `fiddler.dll`. (Downloaded from Yukihana-Patch in pre-reuirements)
-     > Of course you can do 2. and 3. in one step buy just replacing original `fiddler.dll` with Yukihana-Patch's `fiddler.dll`
+  3. Copy the downloaded `fiddler.dll`. (Downloaded from Yui-Patch in pre-reuirements)
+     > Of course you can do 2. and 3. in one step buy just replacing original `fiddler.dll` with Yui-Patch's `fiddler.dll`
   
   4. Open `resources/app/out/WebServer`
      ![Screenshot](https://github.com/user-attachments/assets/f85a8806-b47a-4180-9f96-3a8b7422f14d)
