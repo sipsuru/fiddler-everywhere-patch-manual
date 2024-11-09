@@ -5,7 +5,7 @@ Please support this repo by updating versions. (Scroll for more info)
 
 # Versions
 
-| Version | Download Original App to Patch                                                     | Guide                            | Guide Compatibility | End of Compatibility | Notes                              |
+| Version | Download Original App                                                              | Guide                            | Guide Compatibility | End of Compatibility | Notes                              |
 | ------- | ---------------------------------------------------------------------------------- |--------------------------------- | ------------------- | -------------------- | ---------------------------------- |
 | 5.15.1  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.15.1.exe) | [Guide](/guides/5.15.1/guide.md) | 5.9.0 to 5.16.0     | 5.16.0               | Isn't compatible with 5.17.0       |
 | 5.16.0  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.16.0.exe) | [Guide](/guides/5.16.0/guide.md) | 5.9.0 to 5.16.0     | 5.16.0               | Isn't compatible with 5.17.0       |
