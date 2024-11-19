@@ -13,3 +13,4 @@ Please support this repo by updating versions. (Scroll for more info)
 | 5.18.0  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.18.0.exe) | [Guide](/guides/5.18.0/guide.md) | 5.17.0 +            | -                    | Compatible with "no libfiddler.dll |
 | 5.19.0  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.19.0.exe) | [Guide](/guides/5.19.0/guide.md) | 5.17.0 +            | -                    | Compatible with "no libfiddler.dll |
 | 5.20.0  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.20.0.exe) | [Guide](/guides/5.20.0/guide.md) | 5.17.0 +            | -                    | Compatible with "no libfiddler.dll |
+| 5.21.0  | [Download](https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.21.0.exe) | [Guide](/guides/5.21.0/guide.md) | 5.17.0 +            | -                    | Compatible with "no libfiddler.dll |
