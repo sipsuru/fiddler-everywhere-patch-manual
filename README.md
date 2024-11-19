@@ -14,7 +14,7 @@ This's the guide for applying patch mannually. There'll be a repo guiding you tr
 Follow [Instructions Version Selecter](/version-selecter.md) for dedicated instruction for each version.
 
 > [!NOTE]
-> Latest Fiddler Everywhere Version, 5.19.0 is now supported with Yui-Patch release `1.1.3 +`.
+> Latest Fiddler Everywhere Version, 5.21.0 is now supported with Yui-Patch release `1.1.3 +`.
 > For versions <= 5.16.0, you need to use Yukihana-Patch release 1.0.9.
 
 > [!WARNING]
