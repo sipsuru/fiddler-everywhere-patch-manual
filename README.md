@@ -2,11 +2,14 @@
 Guides you to Patch Fiddler Everywhere on Windows Manually. 
 > Parent Repo: https://github.com/msojocs/fiddler-everywhere-enhance
 
+> [!NOTE]
+> Note that the repo is transfered from `sipsuru` to `auto-yui-patch`
+
 ## Special: Automated Patching Can be Used now. Visit [This repo](https://github.com/sipsuru/fiddler-everywhere-patch-automated)
 
 ## What and How?
 This's a crack (actually a patch) for Telerik Fiddler Everywhere. It can grant you a trial that doesn't expire. The trial has every feature. 
-This's the guide for applying patch mannually. There'll be a repo guiding you trough automatic patching.
+This's the guide for applying patch manually. There'll be a repo guiding you trough automatic patching.
 
 ![Unlimited Trial](https://github.com/user-attachments/assets/e9c83778-27fa-456a-96e6-07bb0cd7f4ad)
 
